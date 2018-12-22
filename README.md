@@ -1,4 +1,7 @@
---The Odin Project--
+# --The Odin Project--
 
-PROJECT: HTML/CSS
+## PROJECT: HTML/CSS
+
+
 Assignment: Build the Google.com homepage
+
