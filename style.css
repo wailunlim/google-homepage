@@ -1,0 +1,49 @@
+#main {
+  text-align: center;
+  margin: 250px;
+}
+
+.search-box {
+  width: 300px;
+  height: 20px;
+  margin: 10px;
+}
+
+.button {
+  font-size: 14px;
+  width: auto;
+  height: auto;
+  border: none;
+  padding: 10px;
+  margin: 5px;
+  margin-top: 0px;
+  background-color: rgb(240, 240, 240);
+  font-family: Arial;
+}
+
+p {
+  padding: 10px;
+  background-color: rgb(240, 240, 240);
+  font-family: Arial;
+  font-size: 14px;
+  margin: 0px;
+  border-top-style: solid;
+  border-color: grey;
+  border-width: 1px;
+}
+
+a {
+  margin: 5px;
+  margin-left: 0px;
+}
+
+.align-right {
+  float: right;
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
